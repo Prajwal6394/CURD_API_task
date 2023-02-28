@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Prajwal6394/CURD_API_task/issues"
   },
-  "homepage": "https://github.com/Prajwal6394/CURD_API_task#readme"
+  "homepage": "https://github.com/Prajwal6394/CURD_API_task#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
 }
