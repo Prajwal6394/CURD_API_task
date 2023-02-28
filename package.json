@@ -1,0 +1,19 @@
+{
+  "name": "crud_api_task",
+  "version": "1.0.0",
+  "description": "simple crud api using nodejs and express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajwal6394/CURD_API_task.git"
+  },
+  "author": "Prajwal Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prajwal6394/CURD_API_task/issues"
+  },
+  "homepage": "https://github.com/Prajwal6394/CURD_API_task#readme"
+}
